@@ -1,6 +1,6 @@
 from picozero import Speaker
 import machine ,utime
-speaker = Speaker(21)
+speaker = Speaker(20)
 button0  = machine.Pin(  0 , machine.Pin.IN, machine.Pin.PULL_UP)
 button1  = machine.Pin(  1 , machine.Pin.IN, machine.Pin.PULL_UP)
 button2  = machine.Pin(  2 , machine.Pin.IN, machine.Pin.PULL_UP)

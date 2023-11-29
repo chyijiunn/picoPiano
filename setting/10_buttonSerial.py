@@ -1,6 +1,6 @@
 from picozero import Speaker
 import machine
-speaker = Speaker(21)
+speaker = Speaker(20)
 for i in range(27):
     buttonName = 'button' + str(i)
     buttonName = machine.Pin( i , machine.Pin.IN, machine.Pin.PULL_UP)
