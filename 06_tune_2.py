@@ -1,5 +1,5 @@
 from picozero import Speaker
-speaker = Speaker(20)
+speaker = Speaker(21)
 tempo = 60/150 #tempo = 60/150 #(時間間隔 秒，BPM 120--> 60/120，150-->60/150)
 
 tune_1 = [['a5', tempo / 2],
