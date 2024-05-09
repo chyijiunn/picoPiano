@@ -1,7 +1,6 @@
 from machine import Pin, PWM
 from utime import sleep
 buzzer = PWM(Pin(21))
-#頻率表可參照 https://zh.wikipedia.org/zh-tw/音高
 buzzer.freq(262)
 buzzer.duty_u16(1000)
 sleep(0.5)                                                                                 
