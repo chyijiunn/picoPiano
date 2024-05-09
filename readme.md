@@ -3,8 +3,9 @@
 1. 韌體安裝
 1. 銲接蜂鳴器、接地線、了解基本 io
 1. 完成紙卡片
-
-## 程式使用
+#成品演示  
+[![成品演示](https://img.youtube.com/vi/vWDxTQUnj-A/0.jpg)](https://www.youtube.com/watch?v=vWDxTQUnj-A)
+# 程式使用
 1. 板上LED開關
 2. 閃爍
 3. 蜂鳴器控制，僅高低電位
