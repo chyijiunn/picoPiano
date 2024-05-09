@@ -3,7 +3,7 @@ import machine ,utime
 LED = machine.Pin(25,machine.Pin.OUT)#控制內建的LED
 LED.value(1)
 
-speaker = Speaker(19)
+speaker = Speaker(21)
 button0  = machine.Pin(  0 , machine.Pin.IN, machine.Pin.PULL_UP)
 button1  = machine.Pin(  1 , machine.Pin.IN, machine.Pin.PULL_UP)
 button2  = machine.Pin(  2 , machine.Pin.IN, machine.Pin.PULL_UP)

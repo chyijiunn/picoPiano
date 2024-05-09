@@ -1,5 +1,5 @@
 from picozero import Speaker
-speaker = Speaker(19)
+speaker = Speaker(21)
 speaker.play('c4', 1)
 speaker.play('d4', 1)
 speaker.play('e4', 1)
