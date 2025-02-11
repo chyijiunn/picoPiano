@@ -1,6 +1,6 @@
 # 利用紙卡片製作平台鋼琴
 1. 學習地圖
-![學習地圖](picoPiano.png)
+![學習地圖](media/picoPiano.png)
 1. Thonny 下載
 1. 韌體安裝
 1. 銲接蜂鳴器、接地線、了解基本 io
