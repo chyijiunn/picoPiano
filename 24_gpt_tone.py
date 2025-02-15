@@ -1,6 +1,5 @@
 from picozero import Speaker
 speaker = Speaker(21)
-tempo = 60/150 #tempo = 60/150 #(時間間隔 秒，BPM 120--> 60/120，150-->60/150)
 t = 60 / 120  # 每分鐘 120 拍
 
 zelda_botw_full_theme = [
